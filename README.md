@@ -75,18 +75,20 @@ CREATE TABLE bill_items (
     FOREIGN KEY (product_id) REFERENCES products(id)
 );
 
-<img width="625" height="486" alt="image" src="https://github.com/user-attachments/assets/af9db544-8642-4897-9270-8a35cb91e4e0" />
 
 ```
+<img width="1718" height="681" alt="image" src="https://github.com/user-attachments/assets/1c3cddd3-4c8b-4f85-b6d0-fd2be11755fa" />
+
 ## To download JDBC file 
 
-https://dev.mysql.com/downloads/connector/j/
-(Connector/J 9.4.0
-Select Operating System:Platform Independent
+* https://dev.mysql.com/downloads/connector/j/
+* (Connector/J 9.4.0
+* Select Operating System:Platform Independent
 
-Platform Independent (Architecture Independent), Compressed TAR Archive	9.4.0	4.3M	
-Download (from the website select platform independent and download the file name as the above one )
----
+
+* Platform Independent (Architecture Independent), Compressed TAR Archive	9.4.0	4.3M	
+* Download (from the website select platform independent and download the file name as the above one )
+
 ---
 
 ## ⚙️ How to Run
@@ -101,7 +103,7 @@ Download (from the website select platform independent and download the file nam
    * Open terminal / IDE and run:
 
      ```
-     java Main (in the terminal )
+    * click run all in the main file
      ```
 
 3. **Choose Menu Options**
