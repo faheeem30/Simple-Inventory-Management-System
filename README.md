@@ -102,10 +102,6 @@ CREATE TABLE bill_items (
 
    * Open terminal / IDE and run:
 
-     ```
-    * click run all in the main file
-     ```
-
 3. **Choose Menu Options**
 
 <img width="520" height="352" alt="image" src="https://github.com/user-attachments/assets/2c7703cd-12c3-459e-ab0b-d1a34c98df7c" />
