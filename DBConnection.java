@@ -8,9 +8,9 @@ public class DBConnection {
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
             con = DriverManager.getConnection(
-                "jdbc:mysql://127.0.0.1:3306/inventorydb",
+                "jdbc:mysql:#mysqljdbc link",
                 "root",
-                "faheem"
+                "#mysql password"
             );
         } catch (Exception e) {
             System.out.println("Database connection error: " + e);
@@ -18,4 +18,5 @@ public class DBConnection {
         return con;
     }
 }
+
 
